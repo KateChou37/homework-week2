@@ -196,6 +196,7 @@ const checkLogin = async () => {
       </div>
     )}
     </>
-  );}
+  );
+}
 
 export default App 
